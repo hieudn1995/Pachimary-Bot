@@ -1,0 +1,22 @@
+{
+    "name": "pachimarybot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "petdomaa100",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "hh-mm-ss": "^1.2.0",
+        "moment": "^2.23.0",
+        "mysql": "^2.16.0",
+        "opusscript": "0.0.6",
+        "simple-youtube-api": "^5.1.1",
+        "superagent": "^4.1.0",
+        "thousand-separator": "^1.0.4",
+        "ytdl-core": "^0.29.1"
+    }
+}
